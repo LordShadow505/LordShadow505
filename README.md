@@ -2,7 +2,7 @@
 
 > Hi, I'm Carlos! I'm a future game dev and semi-professional artist! 
 
-#### Me:
+## Me:
 
 - My Art: 🎨 
 
