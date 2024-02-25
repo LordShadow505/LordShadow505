@@ -1,6 +1,8 @@
 # Hello 💀
 
-> Hi, I'm Carlos! I'm a future game dev and semi-professional artist! 
+> Hi, I'm Carlos! I'm a future game dev and semi-professional artist!
+> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordshadow505&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Me:
 
