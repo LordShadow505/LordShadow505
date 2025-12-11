@@ -2,7 +2,7 @@
 
 > Hi, I'm Carlos! I'm a future game dev and semi-professional artist!
 > 
-[![Top Langs](![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=lordhadow5055&hide=contribs,prs))
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lordshadow505&layout=compact)
 
 ## Me:
 
